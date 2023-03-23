@@ -1,0 +1,15 @@
+E:\c-network\chtq\c#networkcl\c#networkcl\bin\Release\net6.0\c#networkcl.exe
+E:\c-network\chtq\c#networkcl\c#networkcl\bin\Release\net6.0\c#networkcl.deps.json
+E:\c-network\chtq\c#networkcl\c#networkcl\bin\Release\net6.0\c#networkcl.runtimeconfig.json
+E:\c-network\chtq\c#networkcl\c#networkcl\bin\Release\net6.0\c#networkcl.dll
+E:\c-network\chtq\c#networkcl\c#networkcl\bin\Release\net6.0\c#networkcl.pdb
+E:\c-network\chtq\c#networkcl\c#networkcl\obj\Release\net6.0\c#networkcl.csproj.AssemblyReference.cache
+E:\c-network\chtq\c#networkcl\c#networkcl\obj\Release\net6.0\c#networkcl.GeneratedMSBuildEditorConfig.editorconfig
+E:\c-network\chtq\c#networkcl\c#networkcl\obj\Release\net6.0\c#networkcl.AssemblyInfoInputs.cache
+E:\c-network\chtq\c#networkcl\c#networkcl\obj\Release\net6.0\c#networkcl.AssemblyInfo.cs
+E:\c-network\chtq\c#networkcl\c#networkcl\obj\Release\net6.0\c#networkcl.csproj.CoreCompileInputs.cache
+E:\c-network\chtq\c#networkcl\c#networkcl\obj\Release\net6.0\c#networkcl.dll
+E:\c-network\chtq\c#networkcl\c#networkcl\obj\Release\net6.0\refint\c#networkcl.dll
+E:\c-network\chtq\c#networkcl\c#networkcl\obj\Release\net6.0\c#networkcl.pdb
+E:\c-network\chtq\c#networkcl\c#networkcl\obj\Release\net6.0\c#networkcl.genruntimeconfig.cache
+E:\c-network\chtq\c#networkcl\c#networkcl\obj\Release\net6.0\ref\c#networkcl.dll

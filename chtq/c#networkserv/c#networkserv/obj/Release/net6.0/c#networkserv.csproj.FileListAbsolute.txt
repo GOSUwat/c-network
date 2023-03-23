@@ -1,0 +1,15 @@
+E:\c-network\chtq\c#networkserv\c#networkserv\bin\Release\net6.0\c#networkserv.exe
+E:\c-network\chtq\c#networkserv\c#networkserv\bin\Release\net6.0\c#networkserv.deps.json
+E:\c-network\chtq\c#networkserv\c#networkserv\bin\Release\net6.0\c#networkserv.runtimeconfig.json
+E:\c-network\chtq\c#networkserv\c#networkserv\bin\Release\net6.0\c#networkserv.dll
+E:\c-network\chtq\c#networkserv\c#networkserv\bin\Release\net6.0\c#networkserv.pdb
+E:\c-network\chtq\c#networkserv\c#networkserv\obj\Release\net6.0\c#networkserv.csproj.AssemblyReference.cache
+E:\c-network\chtq\c#networkserv\c#networkserv\obj\Release\net6.0\c#networkserv.GeneratedMSBuildEditorConfig.editorconfig
+E:\c-network\chtq\c#networkserv\c#networkserv\obj\Release\net6.0\c#networkserv.AssemblyInfoInputs.cache
+E:\c-network\chtq\c#networkserv\c#networkserv\obj\Release\net6.0\c#networkserv.AssemblyInfo.cs
+E:\c-network\chtq\c#networkserv\c#networkserv\obj\Release\net6.0\c#networkserv.csproj.CoreCompileInputs.cache
+E:\c-network\chtq\c#networkserv\c#networkserv\obj\Release\net6.0\c#networkserv.dll
+E:\c-network\chtq\c#networkserv\c#networkserv\obj\Release\net6.0\refint\c#networkserv.dll
+E:\c-network\chtq\c#networkserv\c#networkserv\obj\Release\net6.0\c#networkserv.pdb
+E:\c-network\chtq\c#networkserv\c#networkserv\obj\Release\net6.0\c#networkserv.genruntimeconfig.cache
+E:\c-network\chtq\c#networkserv\c#networkserv\obj\Release\net6.0\ref\c#networkserv.dll
