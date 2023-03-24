@@ -1,20 +1,35 @@
 ﻿using System.Net.Sockets;
 using System.Text;
 
-using var socket = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
+
 try
 {
-    await socket.ConnectAsync("127.0.0.1", 8888);
-    var message = "hello";
-    var mbytes = Encoding.UTF8.GetBytes(message);
-    var sended = await socket.SendAsync(mbytes, SocketFlags.None);
+    TcpClient client = new TcpClient();
+    await client.ConnectAsync("127.0.0.1", 8888);
+
+    while (true)
+    {
+        var stream = client.GetStream();
+        string message = Console.ReadLine();
+        if (message != null)
+        {
+            byte[] bytes = Encoding.UTF8.GetBytes(message);
+            await stream.WriteAsync(bytes);
 
 
-    Console.WriteLine($"Подключился {socket.RemoteEndPoint}");
+        }
+        else
+        {
+            Console.WriteLine("Введите сообщение");
+        }
+        
+
+    }
+      
 }
-catch(SocketException ex)
+catch (Exception ex)
 {
-    Console.WriteLine(ex.ToString());   
+
 }
 
 
